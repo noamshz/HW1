@@ -5,6 +5,5 @@ public class Assignment01Q01 {
                 System.out.println(arg.charAt(0));
             }
         }
-        // TODO: Implement Q01
     }
 }
